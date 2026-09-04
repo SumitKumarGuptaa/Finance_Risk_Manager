@@ -1,0 +1,11 @@
+{
+  "title": "Finance Risk Manager",
+  "description": "Streamline project planning and management with intuitive tools designed to help users organize tasks, track progress, and achieve goals efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
